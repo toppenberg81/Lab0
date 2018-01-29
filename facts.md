@@ -7,4 +7,4 @@ List two truths and one lie about you below
 
 
 Bonus (+1), add your screen shot as an image here.
-![Proof Screenshot] (http://github.com/toppenberg81/Lab0/proof/octocatlearninggit.PNG)
+![Proof Screenshot] (https://github.com/toppenberg81/Lab0/blob/master/proof/octocatlearninggit.PNG)
